@@ -1,4 +1,8 @@
-## Wasabi | Restaurant Web Tempalte<a href="https://amirayhan.github.io/clemon/" target="_blank">Live Preview</a>
+## Wasabi | Restaurant Web Tempalte<a href="https://amirayhan.github.io/wasabi/" target="_blank">Live Preview</a>
+
+<!--<p>Clemon | Personal Portfolio Web Tempalte is for many purpose like minimal portfolios, agencies, personal portfolio, photography, freelancer portfolios etc. Users will love Your site because it gives them a unique user experience (UX). All components are well organized and named accordingly so its very easy to change any and all of the design.</p>-->
+
+<!--<p>proBurg | Restaurant Web Tempalte for Cafe & Restaurant, Bars, Bistros, Pizza Shop, Seafood and any food related business websites This template comes with necessary features for your online presence. Earls can be a great choice for your online presence. Looking to release your company website Earls is the best choice.</p>-->
 
 <p>Wasabi | Restaurant online ordering HTML template. You can use this template for any kind of online Food website. It’s fully responsive on all media devices and based on the Bootstrap 5 grid system. If you want a modern and clean website for your online restaurant, Fast Food, Bakery, Cafe, Tea/Coffee Shop, Seafood Restaurant, or Food Shop this template will be best for you.</p>
 
