@@ -1,4 +1,4 @@
-## Wasabi | Restaurant Web Tempalte <a href="https://amirayhan.github.io/wasabi/" target="_blank"> Live Preview</a>
+## Wasabi | Restaurant Web Tempalte &nbsp; <a href="https://amirayhan.github.io/wasabi/" target="_blank"> Live Preview</a>
 
 <p>Wasabi | Restaurant online ordering HTML template. You can use this template for any kind of online Food website. It’s fully responsive on all media devices and based on the Bootstrap 5 grid system. If you want a modern and clean website for your online restaurant, Fast Food, Bakery, Cafe, Tea/Coffee Shop, Seafood Restaurant, or Food Shop this template will be best for you.</p>
 
